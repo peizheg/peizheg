@@ -29,8 +29,4 @@ jobs:
           plugin_languages: yes
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_languages_ignored:
-            - "jupyter notebook"
-            - "roff"
-            - "html"
-            - "css"
+          plugin_languages_ignored: "jupyter notebook, roff, html, css"
