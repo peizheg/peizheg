@@ -30,7 +30,7 @@ jobs:
           plugin_languages_skipped: peizheg/phonebook
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
-          plugin_languages_aliases: TSX:Typescript
+          plugin_languages_aliases: TSX:TypeScript
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_languages_ignored: "jupyter notebook, roff, html, css"
