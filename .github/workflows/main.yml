@@ -28,10 +28,11 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_skipped: peizheg/phonebook
+          
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
           plugin_languages_aliases: TSX:TypeScript
           plugin_languages_indepth_custom: redacted24/poker, mchacksteam25/mchacks25, sivabalansm/reddit_depression_analysis, LiveGuard-Streaming/MediaFlux-API, JStephenHuang/budget-buddy
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_languages_ignored: "jupyter notebook, roff, html, css"
+          plugin_languages_ignored: "jupyter notebook, roff, html, css, Kotlin, Objective-C++"
