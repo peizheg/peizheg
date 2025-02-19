@@ -28,7 +28,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_skipped: peizheg/phonebook
-          
+          commits_authoring: Peizhe Guan, peizheg, Crazydodo123, peizheg@gmail.com
           plugin_languages_indepth: yes
           plugin_languages_details: percentage, lines
           plugin_languages_aliases: TSX:TypeScript
